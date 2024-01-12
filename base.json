@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Andrew Oliver",
+    "username": "owner",
+    "email": "owner@example.com",
+    "address": {
+      "county": "Italy",
+      "city": "Rome"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Ilya Berezov",
+    "username": "tester",
+    "email": "tester@example.com",
+    "address": {
+      "county": "Russia",
+      "city": "Moscow"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Oleg Kotov",
+    "username": "coder",
+    "email": "coder@example.com",
+    "address": {
+      "county": "USA",
+      "city": "New-York"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Alina Samoylova",
+    "username": "marketolog",
+    "email": "marketolog@example.com",
+    "address": {
+      "county": "USA",
+      "city": "New-York"
+    }
+  },
+  {
+    "id": 5,
+    "name": "John Rever",
+    "username": "programmer",
+    "email": "programmer@example.com",
+    "address": {
+      "county": "USA",
+      "city": "San-Francisco"
+    }
+  },
+  {
+    "id": 6,
+    "name": "David Jackson",
+    "username": "programmer",
+    "email": "programmer2@example.com",
+    "address": {
+      "county": "Italy",
+      "city": "Milan"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Nikita Barabanov",
+    "username": "sysadmin",
+    "email": "sysadmin@example.com",
+    "address": {
+      "county": "Ukraine",
+      "city": "Kiev"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Radion Solomov",
+    "username": "tester",
+    "email": "tester2@example.com",
+    "address": {
+      "county": "Russia",
+      "city": "Orenburg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Tatyana Solomova",
+    "username": "marketolog",
+    "email": "marketolog2@example.com",
+    "address": {
+      "county": "Russia",
+      "city": "Orenburg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Azer Bayramov",
+    "username": "coder",
+    "email": "frontend@example.com",
+    "address": {
+      "county": "Azerbaijan",
+      "city": "Baku"
+    }
+  }
+]
